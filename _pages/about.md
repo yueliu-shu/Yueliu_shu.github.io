@@ -10,6 +10,13 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+Biography
+======
+女，1975年4月出生，江西南城人，工学博士。上海大学计算机工程与科学学院教授，博／硕士研究生导师，郭毅可教授助理。分别于1997年7月和2000年7月在江西师范大学获得计算机科学教育专业学士学位和计算机软件与理论专业硕士学位。于2005年9月获工学博士学位，博士论文题目为《神经网络集成及其在地震预报中的应用研究》。曾于2009年11月赴比利时布鲁塞尔自由大学科学学院计算机科学系COMO实验室访问研究。2012年9月-2013年9月于澳大利亚墨尔本大学电子与电气工程系、澳大利亚国家通信与信息研究中心（NICTA）高级访问学者。曾任上海大学Sybase电子信息学院课程开发经理，上海司顿物流工程咨询有限公司高级咨询顾问。荣获上海大学第十届十佳杰出青年、上海大学优秀青年教师、上海大学三八红旗手等称号，还获得上海大学首届教师创新教学大赛一等奖，第六届青年教师课堂教学竞赛一等奖。
+研究领域：人工智能、机器学习、数据挖掘及其在材料筛选与性能预测、CQA中问题响应时间预测、个性化推荐等方面的应用。
+学术兼职：担任IEEE会员、中国计算机学会会员、YOCSEF上海荣誉委员（曾任副主席）、上海市计算机学会人工智能、普适计算与嵌入式以及物联网专委会委员。
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
