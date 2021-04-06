@@ -17,9 +17,6 @@ Biography
 
 学术兼职：担任IEEE会员、中国计算机学会会员、YOCSEF上海荣誉委员（曾任副主席）、上海市计算机学会人工智能、普适计算与嵌入式以及物联网专委会委员。
 
-aaaa
-======
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
