@@ -12,7 +12,6 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
 1.	Siqi Shi*, Jian Gao, Yue Liu*, Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang*, Ruijuan Xiao*, Multi-scale computation methods: Their applications in lithium-ion battery research and development. Chinese Physics B, 2016, 25(1): 174-197.（被引频次：224次，ESI高被引论文；并被评为中国物流学会2019年度“最有影响论文奖”一等奖）
 2.	Yue Liu*, Wangwei Ju, Jianguo Zhao, Junjun Gao, Jiazhou Zheng, Aiping Jiang, Product life cycle based demand forecasting by using artificial bee colony algorithm optimized two-stage polynomial fitting, Journal of Intelligent & Fuzzy Systems, 2016, 31(2): 825-836.
 3.	Yue Liu, Tianlu Zhao, Wangwei Ju, Siqi Shi*, Materials discovery and design using machine learning, Journal of Materiomics, 2017, 3: 159-177. (中国科技期刊卓越行动计划重点期刊；被引频次：237次，ESI高被引论文；SCI IF＝5.797)
