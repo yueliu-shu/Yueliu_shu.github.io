@@ -1,4 +1,18 @@
+---
+title: "Paper Title Number 111"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 111'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
 1.	Siqi Shi*, Jian Gao, Yue Liu*, Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang*, Ruijuan Xiao*, Multi-scale computation methods: Their applications in lithium-ion battery research and development. Chinese Physics B, 2016, 25(1): 174-197.（被引频次：224次，ESI高被引论文；并被评为中国物流学会2019年度“最有影响论文奖”一等奖）
 2.	Yue Liu*, Wangwei Ju, Jianguo Zhao, Junjun Gao, Jiazhou Zheng, Aiping Jiang, Product life cycle based demand forecasting by using artificial bee colony algorithm optimized two-stage polynomial fitting, Journal of Intelligent & Fuzzy Systems, 2016, 31(2): 825-836.
