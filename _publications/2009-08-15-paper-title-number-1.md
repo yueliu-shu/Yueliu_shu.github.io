@@ -1,6 +1,16 @@
 ---
-title: "发表论文"
+title: "Paper Title Number 2"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-'Yue Liu, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi*, Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries，Energy Storage Materials，2020, 31:434-450.'
+date: 2010-10-01
+venue: 'Journal 1'
+Yue Liu, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi*, Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries，Energy Storage Materials，2020, 31:434-450.
+
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Yue Liu, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi*, Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries，Energy Storage Materials，2020, 31:434-450.  
+This paper is about the number 2. The number 3 is left for future work.
+
+
+
+
