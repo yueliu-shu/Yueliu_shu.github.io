@@ -18,3 +18,8 @@ author_profile: true
 9.	Yue Liu, Junming Wu, Zhichao Wang, XiaoGang Lu, Maxim Avdeev, Siqi Shi, Chongyu Wang, Tao Yu, Predicting creep rupture life of Ni-based single crystal superalloys using divide-and-conquer approach based machine learning, Acta Materialia, 2020, 195: 454-467. (JCR 1区, 中科院1区, TOP期刊，SCI IF = 7.656)
 10.	Yue Liu, Aihua Tang, Zhibin Sun, Weize Tang, Fei Cai, Chengjin Wang. An Integrated Retrieval Framework for Similar Questions: Word-semantic Embedded Label Clustering - LDA with Question Life Cycle. Information Sciences, 2020, 537, 227-245. (JCR 1区, 中科院1区, TOP期刊；SCI IF= 5.910)
 11.	Yue Liu, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi*, Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries，Energy Storage Materials，2020, 31:434-450. (JCR 1区, 中科院1区, TOP期刊；SCI IF = 16.280)
+发表的专著：
+======
+
+刘悦，神经网络集成及其在地震预报中的应用研究，上海大学出版社，2009年6月第1版，ISBN：978-7-81118-367-2/G.490
+
