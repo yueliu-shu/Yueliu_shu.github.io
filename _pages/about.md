@@ -25,7 +25,7 @@ redirect_from:
 ======
 联系电话：+86 21 66135773
 
-E-mail： yueliu@ shu.edu.cn
+E-mail： yueliu@shu.edu.cn
 
 A data-driven personal website
 ======
