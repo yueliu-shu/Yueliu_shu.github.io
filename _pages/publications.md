@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "近五年发表的论文"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
 
+在国内外重要学术期刊／学术会议上发表论文60多篇，出版专著1部。其中2篇获得ESI高被引论文。
+======
 
+近五年发表的部分SCI检索论文：
+======
 
 1.	Siqi Shi*, Jian Gao, Yue Liu*, Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang*, Ruijuan Xiao*, Multi-scale computation methods: Their applications in lithium-ion battery research and development. Chinese Physics B, 2016, 25(1): 174-197.（被引频次：224次，ESI高被引论文；并被评为中国物流学会2019年度“最有影响论文奖”一等奖）
 2.	Yue Liu*, Wangwei Ju, Jianguo Zhao, Junjun Gao, Jiazhou Zheng, Aiping Jiang, Product life cycle based demand forecasting by using artificial bee colony algorithm optimized two-stage polynomial fitting, Journal of Intelligent & Fuzzy Systems, 2016, 31(2): 825-836.
