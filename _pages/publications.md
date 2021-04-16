@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "发表的论文"
+title: "近五年发表的论文"
 permalink: /publications/
 author_profile: true
 ---
