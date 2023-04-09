@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-在国内外重要学术期刊／学术会议上发表论文60多篇，出版专著1部。其中2篇获得ESI高被引论文。
+在国内外重要学术期刊／学术会议上发表论文70多篇，出版专著1部。其中3篇获得ESI高被引论文。
 ------
 
-近五年发表的部分SCI检索论文：
+发表的部分SCI检索论文：
 ======
-
 1.	Siqi Shi*, Jian Gao, Yue Liu*, Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang*, Ruijuan Xiao*, Multi-scale computation methods: Their applications in lithium-ion battery research and development. Chinese Physics B, 2016, 25(1): 174-197.（被引频次：224次，ESI高被引论文；并被评为中国物流学会2019年度“最有影响论文奖”一等奖）
 2.	Yue Liu*, Wangwei Ju, Jianguo Zhao, Junjun Gao, Jiazhou Zheng, Aiping Jiang, Product life cycle based demand forecasting by using artificial bee colony algorithm optimized two-stage polynomial fitting, Journal of Intelligent & Fuzzy Systems, 2016, 31(2): 825-836.
 3.	Yue Liu, Tianlu Zhao, Wangwei Ju, Siqi Shi*, Materials discovery and design using machine learning, Journal of Materiomics, 2017, 3: 159-177. (中国科技期刊卓越行动计划重点期刊；被引频次：237次，ESI高被引论文；SCI IF＝5.797)
@@ -22,6 +21,15 @@ author_profile: true
 9.	Yue Liu, Junming Wu, Zhichao Wang, XiaoGang Lu, Maxim Avdeev, Siqi Shi, Chongyu Wang, Tao Yu, Predicting creep rupture life of Ni-based single crystal superalloys using divide-and-conquer approach based machine learning, Acta Materialia, 2020, 195: 454-467. (JCR 1区, 中科院1区, TOP期刊，SCI IF = 7.656)
 10.	Yue Liu, Aihua Tang, Zhibin Sun, Weize Tang, Fei Cai, Chengjin Wang. An Integrated Retrieval Framework for Similar Questions: Word-semantic Embedded Label Clustering - LDA with Question Life Cycle. Information Sciences, 2020, 537, 227-245. (JCR 1区, 中科院1区, TOP期刊；SCI IF= 5.910)
 11.	Yue Liu, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi*, Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries，Energy Storage Materials，2020, 31:434-450. (JCR 1区, 中科院1区, TOP期刊；SCI IF = 16.280)
+
+
+2023
+------
+1.	XXXXXXX
+
+2022
+------
+1.	XXXXX
 
 发表的专著：
 ======
