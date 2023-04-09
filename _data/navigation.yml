@@ -12,9 +12,10 @@ main:
   - title: "Research Team"
     url: /research team/
         
-  - title: "Blog Posts"
+  - title: "Research Team"
     url: /year-archive/
-    
+  #- title: "Blog Posts"
+   # url: /year-archive/
  - title: "CV"
     url: /cv/
     
