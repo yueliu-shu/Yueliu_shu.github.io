@@ -10,10 +10,10 @@ main:
     url: /teaching/    
   - title: "Research Team"
     url: /Research Team/
-  - title: "Blog Posts"
-    url: /year-archive/
-  - title: "CV"
-    url: /cv/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "data"
   #  url: /cv/
