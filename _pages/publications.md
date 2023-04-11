@@ -10,18 +10,18 @@ author_profile: true
 
 发表的部分SCI检索论文：
 ======
-1.	Siqi Shi*; Jian Gao; Yue Liu*; Yan Zhao; Qu Wu; Wangwei Ju; Chuying Ouyang*; Ruijuan Xiao*. Multi-scale computation methods: Their applications in lithium-ion battery research and development. CHINESE PHYSICS B, 2016, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，高被引论文；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
-2.	Yue Liu; Tianlu Zhao; Wangwei Ju; Siqi Shi*. Materials discovery and design using machine learning, Journal of Materiomics, 2017, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，高被引论文；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
-3.	Yue Liu; Junming Wu; Guang Yang; Tianlu Zhao; Siqi Shi. Predicting the onset temperature (Tg) of GexSe(1-x) glass transition: a feature selection based two-stage support vector regression method, Science Bulletin, 2019, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊, 中国科技期刊卓越行动计划领军期刊； 被引频次：38)
-4.	Yue Liu*, Aihua Tang, Fei Cai, Pengfei Ren, Zhibin Sun, Multi-feature based Question-Answerer Model Matching for predicting response time in CQA, Knowledge-Based Systems, 2019, 182: 10479-10491. (SCI IF= 8.139， JCR 1区， 中科院1区；被引频次：10)
-5.	Yue Liu; Junming Wu; Maxim Avdeev; Siqi Shi. Multi-Layer Feature Selection Incorporating Weighted Score-Based Expert Knowledge toward Modeling Materials with Targeted Properties, Advanced Theory and Simulations, 2020, 3(2) (SCI IF＝4.105，JCR 1区；被引频次：57)
-6.	Yue Liu; Biru Guo; Xinxin Zou; Yajie Li; Siqi Shi. Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries, Energy Storage Materials，2020, 31:434-450 (SCI IF = 20.831，JCR 1区，中科院1区，TOP期刊；被引频次:127，高被引论文)
-7.	Yue Liu; Junming Wu; Zhichao Wang; Xiao-Gang Lu; Maxim Avdeev; Siqi Shi; Chongyu Wang; Tao Yu. Predicting creep rupture life of Ni-based single crystal superalloys using divide-and-conquer approach based machine learning, Acta Materialia, 2020, 195: 454-467 (SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：65)
-8.	Yue Liu; Aihua Tang; Zhibin Sun; Weize Tang; Fei Cai; Chengjin Wang. An Integrated Retrieval Framework for Similar Questions: Word-semantic Embedded Label Clustering-LDA with Question Life Cycle[J]. Information Sciences, 2020, 537, 227-245. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：6)
-9.	刘悦; 邹欣欣; 杨正伟; 施思齐. 材料领域知识嵌入的机器学习, 硅酸盐学报, 2022,50(03): 863-876 (下载量：1765)
-10.	Yue Liu; Xinxin Zou; Shuchang Ma; Maxim Avdeev; Siqi Shi. Feature selection method reducing correlations among features by embedding domain knowledge [J]. Acta Materialia, 2022, 238: 118195(SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊)
-11.	Yue Liu; Weize Tang; Zitu Liu; Lin Ding; Aihua Tang. High-quality domain expert finding method in CQA based on multi-granularity semantic analysis and interest drift [J]. Information Sciences, 2022, 596: 395-413. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：3)
-12.	Yue Liu; Xianyuan Ge; Zhengwei Yang; Shiyu Sun; Dahui Liu; Maxim Avdeev; Siqi Shi. An Automatic Descriptors Recognizer Customized for Materials Science Literature[J]. Journal of Power Sources, 2022, 545(15): 231946. (SCI IF= 9.794，JCR 1区，中科院1区)
+1.	Siqi Shi*; Jian Gao; **Yue Liu***; Yan Zhao; Qu Wu; Wangwei Ju; Chuying Ouyang*; Ruijuan Xiao*. Multi-scale computation methods: Their applications in lithium-ion battery research and development. _CHINESE PHYSICS B_, **2016**, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
+2.	**Yue Liu**; Tianlu Zhao; Wangwei Ju; Siqi Shi*. Materials discovery and design using machine learning, _Journal of Materiomics_, **2017**, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
+3.	**Yue Liu**; Junming Wu; Guang Yang; Tianlu Zhao; Siqi Shi. Predicting the onset temperature (Tg) of GexSe(1-x) glass transition: a feature selection based two-stage support vector regression method, _Science Bulletin_, **2019**, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊, 中国科技期刊卓越行动计划领军期刊； 被引频次：38)
+4.	**Yue Liu***, Aihua Tang, Fei Cai, Pengfei Ren, Zhibin Sun, Multi-feature based Question-Answerer Model Matching for predicting response time in CQA, _Knowledge-Based Systems_, **2019**, 182: 10479-10491. (SCI IF= 8.139， JCR 1区， 中科院1区；被引频次：10)
+5.	**Yue Liu**; Junming Wu; Maxim Avdeev; Siqi Shi. Multi-Layer Feature Selection Incorporating Weighted Score-Based Expert Knowledge toward Modeling Materials with Targeted Properties, _Advanced Theory and Simulations_, **2020**, 3(2) (SCI IF＝4.105，JCR 1区；被引频次：57)
+6.	**Yue Liu**; Biru Guo; Xinxin Zou; Yajie Li; Siqi Shi. Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries, _Energy Storage Materials_，**2020**, 31:434-450 (SCI IF = 20.831，JCR 1区，中科院1区，TOP期刊；被引频次:127，**高被引论文**)
+7.	**Yue Liu**; Junming Wu; Zhichao Wang; Xiao-Gang Lu; Maxim Avdeev; Siqi Shi; Chongyu Wang; Tao Yu. Predicting creep rupture life of Ni-based single crystal superalloys using divide-and-conquer approach based machine learning, _Acta Materialia_, **2020**, 195: 454-467 (SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：65)
+8.	**Yue Liu**; Aihua Tang; Zhibin Sun; Weize Tang; Fei Cai; Chengjin Wang. An Integrated Retrieval Framework for Similar Questions: Word-semantic Embedded Label Clustering-LDA with Question Life Cycle[J]. _Information Sciences_, **2020**, 537, 227-245. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：6)
+9.	**刘悦**; 邹欣欣; 杨正伟; 施思齐. 材料领域知识嵌入的机器学习, 硅酸盐学报, **2022**,50(03): 863-876 (下载量：1765)
+10.	**Yue Liu**; Xinxin Zou; Shuchang Ma; Maxim Avdeev; Siqi Shi. Feature selection method reducing correlations among features by embedding domain knowledge [J]. _Acta Materialia_, **2022**, 238: 118195(SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊)
+11.	**Yue Liu**; Weize Tang; Zitu Liu; Lin Ding; Aihua Tang. High-quality domain expert finding method in CQA based on multi-granularity semantic analysis and interest drift [J]. _Information Sciences_, **2022**, 596: 395-413. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：3)
+12.	**Yue Liu**; Xianyuan Ge; Zhengwei Yang; Shiyu Sun; Dahui Liu; Maxim Avdeev; Siqi Shi. An Automatic Descriptors Recognizer Customized for Materials Science Literature[J]. _Journal of Power Sources_, **2022**, 545(15): 231946. (SCI IF= 9.794，JCR 1区，中科院1区)
 
 
 发表的专著：
