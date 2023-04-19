@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 在国内外重要学术期刊／学术会议上发表论文70多篇，出版专著1部。其中3篇获得ESI高被引论文。
-------
+======
 
 发表的部分SCI检索论文：
-======
+------
 1.	Siqi Shi*; Jian Gao; **Yue Liu***; Yan Zhao; Qu Wu; Wangwei Ju; Chuying Ouyang*; Ruijuan Xiao*. Multi-scale computation methods: Their applications in lithium-ion battery research and development. _CHINESE PHYSICS B_, **2016**, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
 2.	**Yue Liu**; Tianlu Zhao; Wangwei Ju; Siqi Shi*. Materials discovery and design using machine learning, _Journal of Materiomics_, **2017**, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
 3.	**Yue Liu**; Junming Wu; Guang Yang; Tianlu Zhao; Siqi Shi. Predicting the onset temperature (Tg) of GexSe(1-x) glass transition: a feature selection based two-stage support vector regression method, _Science Bulletin_, **2019**, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊, 中国科技期刊卓越行动计划领军期刊； 被引频次：38)
@@ -25,12 +25,12 @@ author_profile: true
 
 
 发表的专著：
-======
+------
 
 刘悦，神经网络集成及其在地震预报中的应用研究，上海大学出版社，2009年6月第1版，ISBN：978-7-81118-367-2/G.490
 
 申请的专利：
-======
+-------
 1. 刘悦，高峻峻，滕在霞，基于广义邻近替代的产品需求预测方法，2010年3月17日申请，申请号：201010126374.X，公开号：101807271A
 2. 刘悦，田文杰，一种面向科学数据分析的自动聚类算法选择系统及方法，2019年9月29日，申请号：201910931657.2，公开号：CN110738245A
 3. 刘悦，葛献远, 施思齐，文本数据的描述符识别方法、装置及介质，2022年05月19日，申请号：202210553720.5，公开号：CN114997176A
