@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Yue Liu"
 title_separator          : "-"
-name                     : &name "Yue Liu"
+name                     : &name "刘悦"
 description              : &description "personal description"
 url                      : https://vimotus.github.io/Yueliu_shu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "刘悦"
   avatar           : "liuyue.png"
-  bio              : "Professor"
-  location         : "Shanghai, China"
+  bio              : "教授"
+  location         : "上海, 中国"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   eamil            :  
-  researchgate     :  "https://cs.shu.edu.cn/index.htm"
+  researchgate     : "https://cs.shu.edu.cn/index.htm"
   telephone        : "+86 21 66135773"
   # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
