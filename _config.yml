@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue Liu"
+  name             : "刘悦"
   avatar           : "liuyue.png"
-  bio              : "Professor"
-  location         : "Shanghai, China"
+  bio              : "教授"
+  location         : "上海, 中国"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   eamil            :  
-  researchgate     :  "https://cs.shu.edu.cn/index.htm"
-  telephone        : "+86 21 66135773"
+  研究机构     :  "https://cs.shu.edu.cn/index.htm"
+  联系方式        : "+86 21 66135773"
   # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
