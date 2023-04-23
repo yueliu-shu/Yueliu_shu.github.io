@@ -10,6 +10,7 @@ author_profile: true
 
 发表的部分SCI检索论文：
 ------
+
 1.	Siqi Shi*; Jian Gao; **Yue Liu**; Yan Zhao; Qu Wu; Wangwei Ju; Chuying Ouyang*; Ruijuan Xiao*. Multi-scale computation methods: Their applications in lithium-ion battery research and development. _CHINESE PHYSICS B_, 2016, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
 2.	**Yue Liu**; Tianlu Zhao; Wangwei Ju; Siqi Shi*. Materials discovery and design using machine learning, _Journal of Materiomics_, 2017, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
 3.	**Yue Liu**; Junming Wu; Guang Yang; Tianlu Zhao; Siqi Shi. Predicting the onset temperature (Tg) of GexSe(1-x) glass transition: a feature selection based two-stage support vector regression method, _Science Bulletin_, **2019**, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊, 中国科技期刊卓越行动计划领军期刊； 被引频次：38)
