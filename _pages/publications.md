@@ -27,6 +27,7 @@ author_profile: true
 14.	**Yue Liu**, Zitu Liu, Shuang Li, Zhenyao Yu, Yike Guo, Qun Li, Guoyin Wang. Cloud-VAE: Variational autoencoder with concepts embedded[J]. Pattern Recognition, 2023, 140: 109530.(SCI IF= 8.518，JCR 1区，中科院1区)
 15.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J].物理学报,2023,72(07):128-141.(下载量：356)
 16.	施思齐,孙拾雨,马舒畅, 邹欣欣, 钱权, **刘悦**.融合材料领域知识的数据准确性检测方法[J].无机材料学报,2022,37(12):1311-1325.(下载量：224)
+17.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J].硅酸盐学报,2023,51(02):427-437.(下载量：321)
 
 
 发表的专著：
