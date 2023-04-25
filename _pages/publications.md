@@ -23,11 +23,11 @@ author_profile: true
 10.	**Yue Liu**; Xinxin Zou; Shuchang Ma; Maxim Avdeev; Siqi Shi. Feature selection method reducing correlations among features by embedding domain knowledge [J]. _Acta Materialia_, 2022, 238: 118195(SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：5)
 11.	**Yue Liu**; Weize Tang; Zitu Liu; Lin Ding; Aihua Tang. High-quality domain expert finding method in CQA based on multi-granularity semantic analysis and interest drift [J]. _Information Sciences_, 2022, 596: 395-413. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：4)
 12.	**Yue Liu**; Xianyuan Ge; Zhengwei Yang; Shiyu Sun; Dahui Liu; Maxim Avdeev; Siqi Shi. An Automatic Descriptors Recognizer Customized for Materials Science Literature[J]. _Journal of Power Sources_, 2022, 545(15): 231946. (SCI IF= 9.794，JCR 1区，中科院1区; 被引频次：1)
-13.	**Yue Liu**, Zitu Liu, Shuang Li, Yike Guo, Qun Li, Guoyin Wang. Cloud-Cluster: An uncertainty clustering algorithm based on cloud model[J]. Knowledge-Based Systems, 2023: 110261. (SCI IF= 8.139，JCR 1区，中科院1区；被引频次：2)
-14.	**Yue Liu**, Zitu Liu, Shuang Li, Zhenyao Yu, Yike Guo, Qun Li, Guoyin Wang. Cloud-VAE: Variational autoencoder with concepts embedded[J]. Pattern Recognition, 2023, 140: 109530.(SCI IF= 8.518，JCR 1区，中科院1区)
-15.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J].物理学报,2023,72(07):128-141.(下载量：356)
-16.	施思齐,孙拾雨,马舒畅, 邹欣欣, 钱权, **刘悦**.融合材料领域知识的数据准确性检测方法[J].无机材料学报,2022,37(12):1311-1325.(下载量：224)
-17.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J].硅酸盐学报,2023,51(02):427-437.(下载量：321)
+13.	**Yue Liu**, Zitu Liu, Shuang Li, Yike Guo, Qun Li, Guoyin Wang. Cloud-Cluster: An uncertainty clustering algorithm based on cloud model[J]. _Knowledge-Based Systems_, 2023: 110261. (SCI IF= 8.139，JCR 1区，中科院1区；被引频次：2)
+14.	**Yue Liu**, Zitu Liu, Shuang Li, Zhenyao Yu, Yike Guo, Qun Li, Guoyin Wang. Cloud-VAE: Variational autoencoder with concepts embedded[J]. _Pattern Recognition_, 2023, 140: 109530.(SCI IF= 8.518，JCR 1区，中科院1区)
+15.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J]. _物理学报_, 2023, 72(07):128-141.(下载量：356)
+16.	施思齐,孙拾雨,马舒畅, 邹欣欣, 钱权, **刘悦**.融合材料领域知识的数据准确性检测方法[J]. _无机材料学报_, 2022,37(12):1311-1325.(下载量：224)
+17.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J]. _硅酸盐学报_, 2023, 51(02):427-437.(下载量：321)
 
 
 发表的专著：
