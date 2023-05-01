@@ -11,8 +11,8 @@ author_profile: true
 发表的部分论文：
 ------
 	
-1.	Siqi Shi, Jian Gao, **Yue Liu**(通讯作者), Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang, Ruijuan Xiao. Multi-scale Computation Methods: Their Applications in Lithium-ion Battery Research and Development. _CHINESE PHYSICS B_, 2016, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
-2.	**Yue Liu**, Tianlu Zhao, Wangwei Ju, Siqi Shi. Materials Discovery and Design Using Machine Learning, _Journal of Materiomics_, 2017, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
+1.	**Yue Liu**, Tianlu Zhao, Wangwei Ju, Siqi Shi. Materials Discovery and Design Using Machine Learning, _Journal of Materiomics_, 2017, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
+2.	Siqi Shi, Jian Gao, **Yue Liu**(通讯作者), Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang, Ruijuan Xiao. Multi-scale Computation Methods: Their Applications in Lithium-ion Battery Research and Development. _CHINESE PHYSICS B_, 2016, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
 3.	**Yue Liu**, Junming Wu, Guang Yang, Tianlu Zhao, Siqi Shi. Predicting the Onset Temperature (Tg) of GexSe(1-x) Glass Transition: a Feature Selection Based Two-stage Support Vector Regression Method, _Science Bulletin_, 2019, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊； 被引频次：38)
 4.	**Yue Liu**, Aihua Tang, Fei Cai, Pengfei Ren, Zhibin Sun, Multi-feature Based Question-Answerer Model Matching for Predicting Response Time in CQA, _Knowledge-Based Systems_, 2019, 182: 10479-10491. (SCI IF= 8.139， JCR 1区， 中科院1区；被引频次：10)
 5.	**Yue Liu**, Junming Wu, Maxim Avdeev, Siqi Shi. Multi-Layer Feature Selection Incorporating Weighted Score-Based Expert Knowledge toward Modeling Materials with Targeted Properties, _Advanced Theory and Simulations_, 2020, 3(2) (SCI IF＝4.105，JCR 1区；被引频次：57)
