@@ -5,31 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-在国内外重要学术期刊／学术会议上发表论文70多篇，出版专著1部。其中3篇入选ESI高被引论文。
+在国内外重要学术期刊／学术会议上发表论文80多篇，出版专著1部。其中3篇入选ESI高被引论文。
 ======
 
 发表的部分论文：
 ------
-
-1.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev and Siqi Shi, Data quantity governance for machine learning in materials science [J]. National Science Review, 2023. (SCI IF=23.178, JCR 1区, 中科院1区)
-2.	Siqi Shi, Jian Gao, **Yue Liu**(通讯作者), Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang, Ruijuan Xiao. Multi-scale Computation Methods: Their Applications in Lithium-ion Battery Research and Development. _CHINESE PHYSICS B_, 2016, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
-3.	**Yue Liu**, Tianlu Zhao, Wangwei Ju, Siqi Shi. Materials Discovery and Design Using Machine Learning, _Journal of Materiomics_, 2017, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
-4.	**Yue Liu**, Junming Wu, Guang Yang, Tianlu Zhao, Siqi Shi. Predicting the Onset Temperature (Tg) of GexSe(1-x) Glass Transition: a Feature Selection Based Two-stage Support Vector Regression Method, _Science Bulletin_, 2019, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊； 被引频次：38)
-5.	**Yue Liu**, Aihua Tang, Fei Cai, Pengfei Ren, Zhibin Sun, Multi-feature Based Question-Answerer Model Matching for Predicting Response Time in CQA, _Knowledge-Based Systems_, 2019, 182: 10479-10491. (SCI IF= 8.139， JCR 1区， 中科院1区；被引频次：10)
-6.	**Yue Liu**, Junming Wu, Maxim Avdeev, Siqi Shi. Multi-Layer Feature Selection Incorporating Weighted Score-Based Expert Knowledge toward Modeling Materials with Targeted Properties, _Advanced Theory and Simulations_, 2020, 3(2) (SCI IF＝4.105，JCR 1区；被引频次：57)
-7.	**Yue Liu**, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi. Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries, _Energy Storage Materials_，2020, 31:434-450 (SCI IF = 20.831，JCR 1区，中科院1区，TOP期刊；被引频次:127，**高被引论文**)
-8.	**Yue Liu**, Junming Wu, Zhichao Wang, Xiao-Gang Lu, Maxim Avdeev, Siqi Shi, Chongyu Wang, Tao Yu. Predicting Creep Rupture Life of Ni-based Single Crystal Superalloys Using Divide-and-conquer Approach Based Machine Learning, _Acta Materialia_, 2020, 195: 454-467 (SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：65)
-9.	**Yue Liu**, Aihua Tang, Zhibin Sun, Weize Tang, Fei Cai, Chengjin Wang. An Integrated Retrieval Framework for Similar Questions: Word-semantic Embedded Label Clustering-LDA with Question Life Cycle[J]. _Information Sciences_, 2020, 537, 227-245. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：6)
-10.	**刘悦**, 邹欣欣, 杨正伟, 施思齐. 材料领域知识嵌入的机器学习, 硅酸盐学报, 2022,50(03): 863-876 (下载量：1765)
-11.	**Yue Liu**, Xinxin Zou, Shuchang Ma, Maxim Avdeev, Siqi Shi. Feature Selection Method Reducing Correlations Among Features by Embedding Domain Knowledge [J]. _Acta Materialia_, 2022, 238: 118195(SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：5)
-12.	**Yue Liu**, Weize Tang, Zitu Liu, Lin Ding, Aihua Tang. High-quality Domain Expert Finding Method in CQA Based on Multi-granularity Semantic Analysis and Interest Drift [J]. _Information Sciences_, 2022, 596: 395-413. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：4)
-13.	**Yue Liu**, Xianyuan Ge, Zhengwei Yang, Shiyu Sun, Dahui Liu, Maxim Avdeev, Siqi Shi. An Automatic Descriptors Recognizer Customized for Materials Science Literature[J]. _Journal of Power Sources_, 2022, 545(15): 231946. (SCI IF= 9.794，JCR 1区，中科院1区; 被引频次：1)
+	
+1.	Siqi Shi, Jian Gao, **Yue Liu**(通讯作者), Yan Zhao, Qu Wu, Wangwei Ju, Chuying Ouyang, Ruijuan Xiao. Multi-scale Computation Methods: Their Applications in Lithium-ion Battery Research and Development. _CHINESE PHYSICS B_, 2016, 25(1): 174-197.( SCI IF= 1.652，中科院3区，中国科技期刊卓越行动计划梯队期刊；被引频次：432，**高被引论文**；被评为中国物理学会2019年度“最有影响论文奖”一等奖)
+2.	**Yue Liu**, Tianlu Zhao, Wangwei Ju, Siqi Shi. Materials Discovery and Design Using Machine Learning, _Journal of Materiomics_, 2017, 3: 159-177. (SCI IF= 8.589，中科院1区，中国科技期刊卓越行动计划重点期刊；被引频次：564，**高被引论文**；被评为中国硅酸盐学会2021年度“高影响力论文”奖)
+3.	**Yue Liu**, Junming Wu, Guang Yang, Tianlu Zhao, Siqi Shi. Predicting the Onset Temperature (Tg) of GexSe(1-x) Glass Transition: a Feature Selection Based Two-stage Support Vector Regression Method, _Science Bulletin_, 2019, 64(16): 1195-1203 (SCI IF = 20.577，JCR 1区，中科院1区，TOP期刊； 被引频次：38)
+4.	**Yue Liu**, Aihua Tang, Fei Cai, Pengfei Ren, Zhibin Sun, Multi-feature Based Question-Answerer Model Matching for Predicting Response Time in CQA, _Knowledge-Based Systems_, 2019, 182: 10479-10491. (SCI IF= 8.139， JCR 1区， 中科院1区；被引频次：10)
+5.	**Yue Liu**, Junming Wu, Maxim Avdeev, Siqi Shi. Multi-Layer Feature Selection Incorporating Weighted Score-Based Expert Knowledge toward Modeling Materials with Targeted Properties, _Advanced Theory and Simulations_, 2020, 3(2) (SCI IF＝4.105，JCR 1区；被引频次：57)
+6.	**Yue Liu**, Biru Guo, Xinxin Zou, Yajie Li, Siqi Shi. Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries, _Energy Storage Materials_，2020, 31:434-450 (SCI IF = 20.831，JCR 1区，中科院1区，TOP期刊；被引频次:127，**高被引论文**)
+7.	**Yue Liu**, Junming Wu, Zhichao Wang, Xiao-Gang Lu, Maxim Avdeev, Siqi Shi, Chongyu Wang, Tao Yu. Predicting Creep Rupture Life of Ni-based Single Crystal Superalloys Using Divide-and-conquer Approach Based Machine Learning, _Acta Materialia_, 2020, 195: 454-467 (SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：65)
+8.	**Yue Liu**, Aihua Tang, Zhibin Sun, Weize Tang, Fei Cai, Chengjin Wang. An Integrated Retrieval Framework for Similar Questions: Word-semantic Embedded Label Clustering-LDA with Question Life Cycle[J]. _Information Sciences_, 2020, 537, 227-245. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：6)
+9.	**刘悦**, 邹欣欣, 杨正伟, 施思齐. 材料领域知识嵌入的机器学习, 硅酸盐学报, 2022,50(03): 863-876 (下载量：1765)
+10.	**Yue Liu**, Xinxin Zou, Shuchang Ma, Maxim Avdeev, Siqi Shi. Feature Selection Method Reducing Correlations Among Features by Embedding Domain Knowledge [J]. _Acta Materialia_, 2022, 238: 118195(SCI IF = 9.209，JCR 1区，中科院1区，TOP期刊; 被引频次：5)
+11.	**Yue Liu**, Weize Tang, Zitu Liu, Lin Ding, Aihua Tang. High-quality Domain Expert Finding Method in CQA Based on Multi-granularity Semantic Analysis and Interest Drift [J]. _Information Sciences_, 2022, 596: 395-413. (SCI IF= 8.233，JCR 1区，中科院1区；被引频次：4)
+12.	**Yue Liu**, Xianyuan Ge, Zhengwei Yang, Shiyu Sun, Dahui Liu, Maxim Avdeev, Siqi Shi. An Automatic Descriptors Recognizer Customized for Materials Science Literature[J]. _Journal of Power Sources_, 2022, 545(15): 231946. (SCI IF= 9.794，JCR 1区，中科院1区; 被引频次：1)
+13.	施思齐,孙拾雨,马舒畅, 邹欣欣, 钱权, **刘悦**(通讯作者).融合材料领域知识的数据准确性检测方法[J]. _无机材料学报_, 2022,37(12):1311-1325. (下载量：224)
 14.	**Yue Liu**, Zitu Liu, Shuang Li, Yike Guo, Qun Liu, Guoyin Wang. Cloud-Cluster: An Uncertainty Clustering Algorithm Based on Cloud Model[J]. _Knowledge-Based Systems_, 2023: 110261. (SCI IF= 8.139，JCR 1区，中科院1区；被引频次：2)
 15.	**Yue Liu**, Zitu Liu, Shuang Li, Zhenyao Yu, Yike Guo, Qun Liu, Guoyin Wang. Cloud-VAE: Variational Autoencoder with Concepts Embedded[J]. _Pattern Recognition_, 2023, 140: 109530. (SCI IF= 8.518，JCR 1区，中科院1区)
-16.	**Yue Liu**, Lin Ding, Zhengwei Yang, Xianyuan Ge Dahui Liu, Wei Liu, Tao Yu, Maxim Avdeev, Siqi Shi, Domain knowledge discovery from abstracts of scientific literature on Nickel-based single crystal superalloys [J]. SCIENCE CHINA Technological Sciences, 2023. (SCI IF= 4.7，JCR 2区，中科院2区)
-17.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J]. _物理学报_, 2023, 72(07):128-141. (下载量：356)
-18.	施思齐,孙拾雨,马舒畅, 邹欣欣, 钱权, **刘悦**(通讯作者).融合材料领域知识的数据准确性检测方法[J]. _无机材料学报_, 2022,37(12):1311-1325. (下载量：224)
-19.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J]. _硅酸盐学报_, 2023, 51(02):427-437. (下载量：321)
+16.	**Yue Liu**, Lin Ding, Zhengwei Yang, Xianyuan Ge Dahui Liu, Wei Liu, Tao Yu, Maxim Avdeev, Siqi Shi, Domain Knowledge Discovery From Abstracts of Scientific Literature on Nickel-based Single Crystal Superalloys [J]. SCIENCE CHINA Technological Sciences, 2023. (SCI IF= 4.7，JCR 2区，中科院2区)
+17.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J]. _物理学报_, 2023, 72(07):128-141. (下载量：356)	
+18.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J]. _硅酸盐学报_, 2023, 51(02):427-437. (下载量：321)
+19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev and Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023. (SCI IF=23.178, JCR 1区, 中科院1区)
 
 
 发表的专著：
