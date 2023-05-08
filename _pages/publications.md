@@ -30,6 +30,7 @@ author_profile: true
 17.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J]. _物理学报_, 2023, 72(07):128-141. (下载量：356)	
 18.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J]. _硅酸盐学报_, 2023, 51(02):427-437. (下载量：321)
 19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev and Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023. (SCI IF=23.178, JCR 1区, 中科院1区)
+20.	**Yue Liu**, Shuangyan Wang, Zhengwei Yang, Maxim Avdeev and Siqi Shi, Auto-MatRegressor: Liberating Machine Learning Alchemists [J]. Science Bulletin, 2023. (SCI IF=20.577, JCR 1区, 中科院1区)
 
 
 发表的专著：
