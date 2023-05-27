@@ -26,17 +26,18 @@ author_profile: true
 13.	施思齐,孙拾雨,马舒畅, 邹欣欣, 钱权, **刘悦**(通讯作者).融合材料领域知识的数据准确性检测方法[J]. _无机材料学报_, 2022,37(12):1311-1325. (下载量：224)
 14.	**Yue Liu**, Zitu Liu, Shuang Li, Yike Guo, Qun Liu, Guoyin Wang. Cloud-Cluster: An Uncertainty Clustering Algorithm Based on Cloud Model[J]. _Knowledge-Based Systems_, 2023: 110261. (SCI IF= 8.139，JCR 1区，中科院1区；被引频次：2)
 15.	**Yue Liu**, Zitu Liu, Shuang Li, Zhenyao Yu, Yike Guo, Qun Liu, Guoyin Wang. Cloud-VAE: Variational Autoencoder with Concepts Embedded[J]. _Pattern Recognition_, 2023, 140: 109530. (SCI IF= 8.518，JCR 1区，中科院1区)
-16.	**Yue Liu**, Lin Ding, Zhengwei Yang, Xianyuan Ge Dahui Liu, Wei Liu, Tao Yu, Maxim Avdeev, Siqi Shi, Domain Knowledge Discovery From Abstracts of Scientific Literature on Nickel-based Single Crystal Superalloys [J]. SCIENCE CHINA Technological Sciences, 2023. (SCI IF= 4.7，JCR 2区，中科院2区)
+16.	**Yue Liu**, Lin Ding, Zhengwei Yang, Xianyuan Ge Dahui Liu, Wei Liu, Tao Yu, Maxim Avdeev, Siqi Shi, Domain Knowledge Discovery from Abstracts of Scientific Literature on Nickel-based Single Crystal Superalloys [J]. SCIENCE CHINA Technological Sciences, 2023; doi:10.1007/s11431-022-2283-7. (SCI IF= 4.7，JCR 2区，中科院2区)
 17.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J]. _物理学报_, 2023, 72(07):128-141. (下载量：356)	
 18.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J]. _硅酸盐学报_, 2023, 51(02):427-437. (下载量：321)
-19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev, Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023. (SCI IF=23.178, JCR 1区, 中科院1区)
-20.	**Yue Liu**, Shuangyan Wang, Zhengwei Yang, Maxim Avdeev, Siqi Shi, Auto-MatRegressor: Liberating Machine Learning Alchemists [J]. Science Bulletin, 2023. (SCI IF=20.577, JCR 1区, 中科院1区)
+19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev, Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023; doi:10.1093/nsr/nwad125. (SCI IF=23.178, JCR 1区, 中科院1区)
+20.	**Yue Liu**, Shuangyan Wang, Zhengwei Yang, Maxim Avdeev, Siqi Shi, Auto-MatRegressor: Liberating Machine Learning Alchemists [J]. Science Bulletin, 2023; doi:10.1016/j.scib.2023.05. (SCI IF=20.577, JCR 1区, 中科院1区)
+21.	**Yue Liu**, Zhengwei Yang, Zhenyao Yu et al. Generative Artificial Intelligence and Its Applications ina Materials Science: Current Situation and Future Perspectives. Journal of Materiomics, 2023; doi:10.1016/j.jmat.2023.05.001. (SCI IF= 8.589，中科院1区，TOP期刊)
 
 
 发表的专著：
 ------
-1. **刘悦**，神经网络集成及其在地震预报中的应用研究，上海大学出版社，2009年6月第1版，ISBN：978-7-81118-367-2/G.490
-2. 施思齐，**刘悦**（负责第十章）等，《电化学储能中的计算、建模与仿真》，化学工业出版社，2022.12
+1. **刘悦**，神经网络集成及其在地震预报中的应用研究，上海大学出版社，2009年6月
+2. 施思齐，**刘悦**（负责第十章）等，《电化学储能中的计算、建模与仿真》，化学工业出版社，2022.12月
 
 申请的专利：
 ------
