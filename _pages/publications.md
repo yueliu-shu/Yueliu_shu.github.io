@@ -32,7 +32,7 @@ author_profile: true
 19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev, Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023; doi:10.1093/nsr/nwad125. (SCI IF=23.178, JCR 1区, 中科院1区，TOP期刊)
 20.	**Yue Liu**, Shuangyan Wang, Zhengwei Yang, Maxim Avdeev, Siqi Shi, Auto-MatRegressor: Liberating Machine Learning Alchemists [J]. Science Bulletin, 2023; doi:10.1016/j.scib.2023.05. (SCI IF=20.577, JCR 1区, 中科院1区，TOP期刊)
 21.	**Yue Liu**, Zhengwei Yang, Zhenyao Yu et al. Generative Artificial Intelligence and Its Applications ina Materials Science: Current Situation and Future Perspectives. Journal of Materiomics, 2023; doi:10.1016/j.jmat.2023.05.001. (SCI IF= 8.589，中科院1区，TOP期刊)
-22.	**Yue Liu**, Zhengwei Yang, Zhenyao Yu et al. AAAAA
+
 
 
 发表的专著：
