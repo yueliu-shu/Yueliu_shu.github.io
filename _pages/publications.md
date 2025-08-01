@@ -37,7 +37,7 @@ author_profile: true
 24.  **Yue Liu**, L Wu, Z Yang, et al. Descriptors divide-and-conquer enables multifaceted and interpretable materials structure–activity relationship analysis[J]. Advanced Functional Materials, 2025: 2421621-2421634. (SCI IF= 19.4，中科院1区，Top期刊)
 25.  Z Liu, **Yue Liu**, Z Yu, et al. PT-VAE: Variational Autoencoder with Prior Concept Transformation[J]. Neurocomputing, 2025: 130129. (SCI IF=6.5，中科院2区)
 26.  **Yue Liu**, Shuchang Ma, Zhengwei Yang, Duo Wu, Yali Zhao, Maxim Avdeev, Siqi Shi，Domain knowledge-assisted materials data anomaly detection towards constructing high-performance machine learning models[J]. Journal of Materiomics，2025. (SCI IF=9.6，中科院2区)
-27.  **Yue Liu**, Z Yang, X Zou, Y Lin, S Ma, W Zuo, Z Zou, H Wang, M Avdeev, S Shi. A general framework to govern machine learning oriented materials data quality[J]. Materials Science and Engineering: R: Reports, 2025, 166: 101050. (SCI IF=31.6，中科院1区，Top期刊)MATERIALS SCIENCE & ENGINEERING R-REPORTS
+27.  **Yue Liu**, Z Yang, X Zou, Y Lin, S Ma, W Zuo, Z Zou, H Wang, M Avdeev, S Shi. A general framework to govern machine learning oriented materials data quality[J]. Materials Science and Engineering: R: Reports, 2025, 166: 101050. (SCI IF=31.6，中科院1区，Top期刊)
 28.  **Yue Liu**, Dahui Liu, Zhengwei Yang, Xianyuan Ge, Wenxuan Yao, Jie Wu, Maxim Avdeev, Siqi Shi. A knowledge acquisition automatizing framework from literature exemplified by Na+ activation energy prediction of NASICON solid-state electrolyte[J]. Energy Storage Materials, 2025, 80: 104390.（SCI IF= 20.2，中科院1区，Top期刊）
 
    	
@@ -54,7 +54,7 @@ author_profile: true
 申请的专利：
 ------
 1. 基于广义邻近替代的产品需求预测方法，2010年3月17日申请，申请号：201010126374.X，公开号：101807271A
-2. 一种面向科学数据分析的自动聚类算法选择系统及方法，2019年9月29日，申请号：201910931657.2，公开号：CN110738245A
+2. 一种面向科学数据分析的自动聚类算法选择系统及方法，2019年9月29日，公开号：CN110738245A
 3. 文本数据的描述符识别方法、装置及介质，2022年05月19日，申请号：202210553720.5，公开号：CN114997176A
 4. 一种材料性能自动预测系统, 2022年0月27日, 申请号: 202210735361.5，公开号：CN115148307A
 5. 一种基于层级预测演变的深度神经网络过程解释装置， 2022年12月22日, 申请号: 202211650137.2
