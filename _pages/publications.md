@@ -29,9 +29,20 @@ author_profile: true
 16.	**Yue Liu**, Lin Ding, Zhengwei Yang, Xianyuan Ge Dahui Liu, Wei Liu, Tao Yu, Maxim Avdeev, Siqi Shi, Domain Knowledge Discovery from Abstracts of Scientific Literature on Nickel-based Single Crystal Superalloys [J]. SCIENCE CHINA Technological Sciences, 2023; doi:10.1007/s11431-022-2283-7. (SCI IF= 4.7，JCR 2区，中科院2区)
 17.	**刘悦**, 刘大晖, 葛献远, 杨正伟, 马舒畅, 邹喆乂, 施思齐. 高质量的材料科学文本挖掘数据集构建方法[J]. _物理学报_, 2023, 72(07):128-141. (下载量：356)	
 18.	**刘悦**,马舒畅,杨正伟,邹欣欣,施思齐.面向材料领域机器学习的数据质量治理[J]. _硅酸盐学报_, 2023, 51(02):427-437. (下载量：321)
-19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev, Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023; doi:10.1093/nsr/nwad125. (SCI IF=23.178, JCR 1区, 中科院1区，TOP期刊)
+19.	**Yue Liu**, Zhengwei Yang, Xinxin Zou, Shuchang Ma, Dahui Liu, Maxim Avdeev, Siqi Shi, Data Quantity Governance for Machine Learning in Materials Science [J]. National Science Review, 2023; doi:10.1093/nsr/nwad125. (SCI IF=23.178， JCR 1区，中科院1区，TOP期刊)
 20.	**Yue Liu**, Shuangyan Wang, Zhengwei Yang, Maxim Avdeev, Siqi Shi, Auto-MatRegressor: Liberating Machine Learning Alchemists [J]. Science Bulletin, 2023; doi:10.1016/j.scib.2023.05. (SCI IF=20.577, JCR 1区, 中科院1区，TOP期刊)
 21.	**Yue Liu**, Zhengwei Yang, Zhenyao Yu et al. Generative Artificial Intelligence and Its Applications ina Materials Science: Current Situation and Future Perspectives. Journal of Materiomics, 2023; doi:10.1016/j.jmat.2023.05.001. (SCI IF= 8.589，中科院1区，TOP期刊)
+22 	**Yue Liu**, Zhenyao Yu, Zitu Liu, Ziyi Yu, Xinyan Yang, Xingyue Li, Yike Guo, Qun Liu, Guoyin Wang. Improving Disentanglement in Variational Auto-Encoders via Feature Imbalance Informed Dimension Weighting. Knowledge-Based Systems, 2024, 263: 110261. (SCI IF= 8.139，JCR 1区，中科院1区，TOP期刊)
+23      **Yue Liu**, Zitu Liu, Zhenyao Yu, Qingshan Fu, Weize Tang, Wenxuan Yao, Zhibin Sun. Knowledge Augmented Expert finding framework via knowledge graph embedding for Community Question Answering[J]. Engineering Applications of Artificial Intelligence, 2025, 142: 109891. (SCI IF=8，中科院1区，Top期刊)
+24   	**Yue Liu**, L Wu, Z Yang, et al. Descriptors divide-and-conquer enables multifaceted and interpretable materials structure–activity relationship analysis[J]. Advanced Functional Materials, 2025: 2421621-2421634. (SCI IF= 19.4，中科院1区，Top期刊)
+25      Z Liu, **Yue Liu**, Z Yu, et al. PT-VAE: Variational Autoencoder with Prior Concept Transformation[J]. Neurocomputing, 2025: 130129. (SCI IF=6.5，中科院2区)
+26      **Yue Liu**, Shuchang Ma, Zhengwei Yang, Duo Wu, Yali Zhao, Maxim Avdeev, Siqi Shi，Domain knowledge-assisted materials data anomaly detection towards constructing high-performance machine learning models[J]. Journal of Materiomics，2025. (SCI IF=9.6，中科院2区)
+27      **Yue Liu**, Z Yang, X Zou, Y Lin, S Ma, W Zuo, Z Zou, H Wang, M Avdeev, S Shi. A general framework to govern machine learning oriented materials data quality[J]. Materials Science and Engineering: R: Reports, 2025, 166: 101050. (SCI IF=31.6，中科院1区，Top期刊)MATERIALS SCIENCE & ENGINEERING R-REPORTS
+28      **Yue Liu**, Dahui Liu, Zhengwei Yang, Xianyuan Ge, Wenxuan Yao, Jie Wu, Maxim Avdeev, Siqi Shi. A knowledge acquisition automatizing framework from literature exemplified by Na+ activation energy prediction of NASICON solid-state electrolyte[J]. Energy Storage Materials, 2025, 80: 104390.（SCI IF= 20.2，中科院1区，Top期刊）
+
+   	
+   	
+
 
 
 
